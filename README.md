@@ -1,2 +1,3 @@
 # test
-This is my first ever project on Git
+Updating my first ever project on Git
+
